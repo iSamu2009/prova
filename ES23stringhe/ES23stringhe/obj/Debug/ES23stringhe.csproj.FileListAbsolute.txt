@@ -1,0 +1,8 @@
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\bin\Debug\ES23stringhe.exe.config
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\bin\Debug\ES23stringhe.exe
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\bin\Debug\ES23stringhe.pdb
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\obj\Debug\ES23stringhe.csproj.AssemblyReference.cache
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\obj\Debug\ES23stringhe.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\obj\Debug\ES23stringhe.csproj.CoreCompileInputs.cache
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\obj\Debug\ES23stringhe.exe
+C:\Users\s.martina.4061\Desktop\ESERCIZI C#\ES23stringhe\ES23stringhe\obj\Debug\ES23stringhe.pdb
